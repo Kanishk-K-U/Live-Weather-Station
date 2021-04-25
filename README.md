@@ -7,10 +7,14 @@ We will measure humidity, temperature, and rainfall and upload the data to firba
 # Components
 
 NodeMCU	ESP8266-12E Board
+
 Breadboard
+
 DHT11 Sensor	DHT11 Humidity Temperature Sensor
+
 Rain Sensor	FC-37 Rain Sensor Module
-Connecting Wires	Jumper Wires
+
+Connecting Wires-Jumper Wires
 
 # Circuit Diagram & Connections
 
