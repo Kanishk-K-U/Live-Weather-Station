@@ -21,7 +21,7 @@ Connecting Wires-Jumper Wires
 
 <p >
   <div align="center" >
- <img src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/Circuit-Diagram.jpg">
+ <img width="1280" height="720" src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/Circuit-Diagram.jpg">
     </div>
 </p>
 
