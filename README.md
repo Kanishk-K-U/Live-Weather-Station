@@ -24,6 +24,7 @@ Connecting Wires	Jumper Wires
 
 <p >
   <div align="center" >
+ <img src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/Weather-Station.jpeg">
  <img width="500" height="888.89" src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/not%20raining.PNG">
  <img width="500" height="888.89" src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/raining.PNG">
     </div>
