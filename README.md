@@ -2,7 +2,8 @@
 IoT Live Weather Station Monitoring Using NodeMCU ESP8266
 This post is all about IoT based Live Weather Station Monitoring Using NodemCU ESP8266. 
 We interfaced DHT11 Humidity & Temperature Sensor, and FC37 Rain Sensor with NodeMCU ESP8266-12E Wifi Module. 
-We will measure humidity, temperature, and rainfall and upload the data to firbase.
+We will measure humidity, temperature, and rainfall and upload the data to firbase.which makes it a IoT based Weather Station 
+where the weather conditions can be monitored from anywhere using the Internet.
 
 # Components
 
