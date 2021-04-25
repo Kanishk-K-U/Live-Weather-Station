@@ -23,8 +23,8 @@ Connecting Wires	Jumper Wires
 # Working of the Live Weather Station
 
 <p >
-  <div align="left" >
- <img width="576" height="720" src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/not%20raining.PNG">
- <img width="576" height="720" src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/raining.PNG">
+  <div align="center" >
+ <img width="888.89" height="500" src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/not%20raining.PNG">
+ <img width="888.89" height="500" src="https://github.com/Kanishk-K-U/Live-Weather-Station/blob/main/raining.PNG">
     </div>
 </p>
